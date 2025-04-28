@@ -77,11 +77,6 @@ This project leverages various machine learning and deep learning methods to bui
    - Train and evaluate the models
    - Predict live IPL scores!
 
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
