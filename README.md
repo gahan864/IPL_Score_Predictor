@@ -86,5 +86,3 @@ This project leverages various machine learning and deep learning methods to bui
 - TensorFlow and Keras documentation for model development support.
 
 ---
-
-Would you also like a ready-to-paste `LICENSE` file or some badges (like `Built with TensorFlow`, `License: MIT`, `Made with ❤️ in Python`) to make it look even more professional? 🎯
