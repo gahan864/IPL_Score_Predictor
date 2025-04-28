@@ -21,7 +21,7 @@ This project leverages various machine learning and deep learning methods to bui
   - Exploratory Data Analysis (EDA)
   - Model building using **TensorFlow** and **Keras**
   - Model evaluation and live score prediction
-- `ipl_data_2008_2017.csv` — IPL dataset covering match scores and match-specific features from **2008 to 2017**.
+- `ipl_data.csv` — IPL dataset covering match scores and match-specific features from **2008 to 2017**.
 
 ---
 
